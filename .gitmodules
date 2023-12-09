@@ -1,0 +1,24 @@
+[submodule "tj-math4"]
+	path = tj-math4
+	url = git@github.com:krishnans2006-classes/tj-math4
+[submodule "AI"]
+	path = AI
+	url = git@github.com:krishnans2006-classes/AI
+[submodule "bc-calc"]
+	path = bc-calc
+	url = git@github.com:krishnans2006-classes/bc-calc
+[submodule "multi"]
+	path = multi
+	url = git@github.com:krishnans2006-classes/multi
+[submodule "quantum"]
+	path = quantum
+	url = git@github.com:krishnans2006-classes/quantum
+[submodule "ML"]
+	path = ML
+	url = git@github.com:krishnans2006-classes/ML
+[submodule "ap-econ"]
+	path = ap-econ
+	url = git@github.com:krishnans2006-classes/ap-econ
+[submodule "APCS"]
+	path = APCS
+	url = git@github.com:krishnans2006-classes/APCS
