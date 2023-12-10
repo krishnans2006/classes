@@ -28,3 +28,6 @@
 [submodule "00Admin/new-class"]
 	path = 00Admin/new-class
 	url = git@github.com:krishnans2006-classes/new-class
+[submodule "10Grade/tj-math5"]
+	path = 10Grade/tj-math5
+	url = git@github.com:krishnans2006-classes/tj-math5
