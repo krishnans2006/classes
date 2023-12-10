@@ -31,3 +31,6 @@
 [submodule "10Grade/tj-math5"]
 	path = 10Grade/tj-math5
 	url = git@github.com:krishnans2006-classes/tj-math5
+[submodule "11Grade/ap-physics-c"]
+	path = 11Grade/ap-physics-c
+	url = git@github.com:krishnans2006-classes/ap-physics-c
