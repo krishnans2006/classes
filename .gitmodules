@@ -22,3 +22,6 @@
 [submodule "APCS"]
 	path = 10Grade/APCS
 	url = git@github.com:krishnans2006-classes/APCS
+[submodule "00template"]
+	path = 00Template
+	url = git@github.com:krishnans2006-classes/template
