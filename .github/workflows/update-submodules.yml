@@ -13,7 +13,7 @@ jobs:
       - name: Determine new submodule SHA
         run: echo "SHORT_SHA=`echo ${{ github.event.client_payload.github.sha }} | cut -c1-7`" >> $GITHUB_ENV
       - name: Determine commit message
-        run: echo "COMMIT_MSG=update ${{ github.event.client_payload.github.repository }} @ ${SHORT_SHA}" >> $GITHUB_ENV
+        run: echo "COMMIT_MSG=Update ${{ github.event.client_payload.github.repository }} @ ${SHORT_SHA}" >> $GITHUB_ENV
       - name: Update submodules
         run: |
           git submodule update --init --recursive --checkout -f --remote
