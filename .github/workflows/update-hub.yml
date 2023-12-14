@@ -4,7 +4,7 @@ on:
     types: update
 jobs:
   handle-hub-update:
-    uses: krishnans2006-classes/actions/.github/workflows/update-hub.yml@main
+    uses: krishnans2006-classes/actions/.github/workflows/do-hub-update.yml@main
     with:
       sha: ${{ github.event.client_payload.sha }}
       repository: ${{ github.event.client_payload.repository }}
