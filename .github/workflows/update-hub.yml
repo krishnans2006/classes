@@ -1,0 +1,12 @@
+name: Update hub
+on:
+  repository_dispatch:
+    types: update
+jobs:
+  handle-hub-update:
+    uses: krishnans2006-classes/actions/.github/workflows/update-hub.yml@main
+    with:
+      sha: ${{ github.event.client_payload.sha }}
+      repository: ${{ github.event.client_payload.repository }}
+    secrets:
+      HUB_UPDATE_PAT: ${{ secrets.HUB_UPDATE_PAT }}
