@@ -34,3 +34,6 @@
 [submodule "11Grade/ap-physics-c"]
 	path = 11Grade/ap-physics-c
 	url = git@github.com:krishnans2006-classes/ap-physics-c
+[submodule "00Admin/actions"]
+	path = 00Admin/actions
+	url = git@github.com:krishnans2006-classes/actions.git
