@@ -37,3 +37,6 @@
 [submodule "00Admin/actions"]
 	path = 00Admin/actions
 	url = git@github.com:krishnans2006-classes/actions.git
+[submodule "linear"]
+	path = linear
+	url = git@github.com:krishnans2006-classes/linear
