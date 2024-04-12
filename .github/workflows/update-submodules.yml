@@ -1,0 +1,12 @@
+name: Update submodules
+on:
+  repository_dispatch:
+    types: update
+jobs:
+  handle-submodule-update:
+    uses: krishnans2006/class-actions/.github/workflows/do-submodule-update.yml@main
+    with:
+      sha: ${{ github.event.client_payload.sha }}
+      repository: ${{ github.event.client_payload.repository }}
+    secrets:
+      DO_SUBMODULE_UPDATE_PAT: ${{ secrets.DO_SUBMODULE_UPDATE_PAT }}
