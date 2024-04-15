@@ -1,7 +1,8 @@
-# hub
+# Classes
 
-A hub for all my classes
+A collection of my classes as submodules
 
+Intended usage:
 ```bash
-git clone git@github.com:krishnans2006-classes/hub.git ~/School
+git clone git@github.com:krishnans2006/classes.git ~/School
 ```
