@@ -1,42 +1,42 @@
 [submodule "tj-math4"]
 	path = 10Grade/tj-math4
-	url = git@github.com:krishnans2006-classes/tj-math4
+	url = git@github.com:krishnans2006/class-tj-math4
 [submodule "AI"]
 	path = 11Grade/AI
-	url = git@github.com:krishnans2006-classes/AI
+	url = git@github.com:krishnans2006/class-AI
 [submodule "bc-calc"]
 	path = 11Grade/bc-calc
-	url = git@github.com:krishnans2006-classes/bc-calc
+	url = git@github.com:krishnans2006/class-bc-calc
 [submodule "multi"]
 	path = multi
-	url = git@github.com:krishnans2006-classes/multi
+	url = git@github.com:krishnans2006/class-multi
 [submodule "quantum"]
 	path = quantum
-	url = git@github.com:krishnans2006-classes/quantum
+	url = git@github.com:krishnans2006/class-quantum
 [submodule "ML"]
 	path = ML
-	url = git@github.com:krishnans2006-classes/ML
+	url = git@github.com:krishnans2006/class-ML
 [submodule "ap-econ"]
 	path = 11Grade/ap-econ
-	url = git@github.com:krishnans2006-classes/ap-econ
+	url = git@github.com:krishnans2006/class-ap-econ
 [submodule "APCS"]
 	path = 10Grade/APCS
-	url = git@github.com:krishnans2006-classes/APCS
+	url = git@github.com:krishnans2006/class-APCS
 [submodule "00template"]
 	path = 00Admin/template
-	url = git@github.com:krishnans2006-classes/template
+	url = git@github.com:krishnans2006/class-template
 [submodule "00Admin/new-class"]
 	path = 00Admin/new-class
-	url = git@github.com:krishnans2006-classes/new-class
+	url = git@github.com:krishnans2006/class-new
 [submodule "10Grade/tj-math5"]
 	path = 10Grade/tj-math5
-	url = git@github.com:krishnans2006-classes/tj-math5
+	url = git@github.com:krishnans2006/class-tj-math5
 [submodule "11Grade/ap-physics-c"]
 	path = 11Grade/ap-physics-c
-	url = git@github.com:krishnans2006-classes/ap-physics-c
+	url = git@github.com:krishnans2006/class-ap-physics-c
 [submodule "00Admin/actions"]
 	path = 00Admin/actions
-	url = git@github.com:krishnans2006-classes/actions.git
+	url = git@github.com:krishnans2006/class-actions.git
 [submodule "linear"]
 	path = linear
-	url = git@github.com:krishnans2006-classes/linear
+	url = git@github.com:krishnans2006/class-linear
