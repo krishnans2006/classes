@@ -23,7 +23,7 @@
 	path = ML
 	url = git@github.com:krishnans2006/class-ML
 [submodule "multi"]
-	path = multi
+	path = 12Grade/multi
 	url = git@github.com:krishnans2006/class-multi
 [submodule "new-class"]
 	path = 00Admin/new-class
