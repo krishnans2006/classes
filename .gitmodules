@@ -40,3 +40,6 @@
 [submodule "tj-math5"]
 	path = 10Grade/tj-math5
 	url = git@github.com:krishnans2006/class-tj-math5
+[submodule "college-apps"]
+	path = college-apps
+	url = git@github.com:krishnans2006/college-apps.git
