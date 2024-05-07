@@ -43,3 +43,6 @@
 [submodule "college-apps"]
 	path = college-apps
 	url = git@github.com:krishnans2006/college-apps.git
+[submodule "college-apps-doc"]
+	path = college-apps-doc
+	url = git@github.com:krishnans2006/college-apps-doc.git
