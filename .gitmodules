@@ -46,3 +46,6 @@
 [submodule "college-apps-doc"]
 	path = college-apps-doc
 	url = git@github.com:krishnans2006/college-apps-doc.git
+[submodule "10Grade/ap-chem"]
+	path = 10Grade/ap-chem
+	url = git@github.com:krishnans2006/class-ap-chem
