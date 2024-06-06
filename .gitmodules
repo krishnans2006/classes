@@ -49,3 +49,6 @@
 [submodule "10Grade/ap-chem"]
 	path = 10Grade/ap-chem
 	url = git@github.com:krishnans2006/class-ap-chem
+[submodule "12Grade/ap-lang"]
+	path = 12Grade/ap-lang
+	url = git@github.com:krishnans2006/class-ap-lang
