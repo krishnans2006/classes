@@ -16,8 +16,8 @@
 [submodule "11Grade/bc-calc"]
 	path = 11Grade/bc-calc
 	url = git@github.com:krishnans2006/class-bc-calc
-[submodule "linear"]
-	path = linear
+[submodule "12Grade/linear"]
+	path = 12Grade/linear
 	url = git@github.com:krishnans2006/class-linear
 [submodule "12Grade/ML"]
 	path = 12Grade/ML
