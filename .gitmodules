@@ -1,19 +1,19 @@
-[submodule "actions"]
+[submodule "00Admin/actions"]
 	path = 00Admin/actions
 	url = git@github.com:krishnans2006/class-actions
-[submodule "AI"]
+[submodule "11Grade/AI"]
 	path = 11Grade/AI
 	url = git@github.com:krishnans2006/class-AI
-[submodule "APCS"]
+[submodule "10Grade/APCS"]
 	path = 10Grade/APCS
 	url = git@github.com:krishnans2006/class-APCS
-[submodule "ap-econ"]
+[submodule "11Grade/ap-econ"]
 	path = 11Grade/ap-econ
 	url = git@github.com:krishnans2006/class-ap-econ
-[submodule "ap-physics-c"]
+[submodule "11Grade/ap-physics-c"]
 	path = 11Grade/ap-physics-c
 	url = git@github.com:krishnans2006/class-ap-physics-c
-[submodule "bc-calc"]
+[submodule "11Grade/bc-calc"]
 	path = 11Grade/bc-calc
 	url = git@github.com:krishnans2006/class-bc-calc
 [submodule "linear"]
@@ -22,30 +22,30 @@
 [submodule "ML"]
 	path = ML
 	url = git@github.com:krishnans2006/class-ML
-[submodule "multi"]
+[submodule "12Grade/multi"]
 	path = 12Grade/multi
 	url = git@github.com:krishnans2006/class-multi
-[submodule "new-class"]
+[submodule "00Admin/new-class"]
 	path = 00Admin/new
 	url = git@github.com:krishnans2006/class-new
 [submodule "quantum"]
 	path = quantum
 	url = git@github.com:krishnans2006/class-quantum
-[submodule "template"]
+[submodule "00Admin/template"]
 	path = 00Admin/template
 	url = git@github.com:krishnans2006/class-template
-[submodule "tj-math4"]
+[submodule "10Grade/tj-math4"]
 	path = 10Grade/tj-math4
 	url = git@github.com:krishnans2006/class-tj-math4
-[submodule "tj-math5"]
+[submodule "10Grade/tj-math5"]
 	path = 10Grade/tj-math5
 	url = git@github.com:krishnans2006/class-tj-math5
 [submodule "college-apps"]
 	path = college-apps
-	url = git@github.com:krishnans2006/college-apps.git
+	url = git@github.com:krishnans2006/college-apps
 [submodule "college-apps-doc"]
 	path = college-apps-doc
-	url = git@github.com:krishnans2006/college-apps-doc.git
+	url = git@github.com:krishnans2006/college-apps-doc
 [submodule "10Grade/ap-chem"]
 	path = 10Grade/ap-chem
 	url = git@github.com:krishnans2006/class-ap-chem
