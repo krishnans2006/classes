@@ -28,8 +28,8 @@
 [submodule "00Admin/new-class"]
 	path = 00Admin/new
 	url = git@github.com:krishnans2006/class-new
-[submodule "quantum"]
-	path = quantum
+[submodule "12Grade/quantum"]
+	path = 12Grade/quantum
 	url = git@github.com:krishnans2006/class-quantum
 [submodule "00Admin/template"]
 	path = 00Admin/template
