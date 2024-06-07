@@ -19,8 +19,8 @@
 [submodule "linear"]
 	path = linear
 	url = git@github.com:krishnans2006/class-linear
-[submodule "ML"]
-	path = ML
+[submodule "12Grade/ML"]
+	path = 12Grade/ML
 	url = git@github.com:krishnans2006/class-ML
 [submodule "12Grade/multi"]
 	path = 12Grade/multi
