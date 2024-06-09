@@ -55,3 +55,6 @@
 [submodule "12Grade/ap-gov"]
 	path = 12Grade/ap-gov
 	url = git@github.com:krishnans2006/class-ap-gov
+[submodule "12Grade/geosystems"]
+	path = 12Grade/geosystems
+	url = git@github.com:krishnans2006/class-geosystems
