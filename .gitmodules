@@ -58,3 +58,6 @@
 [submodule "12Grade/geosystems"]
 	path = 12Grade/geosystems
 	url = git@github.com:krishnans2006/class-geosystems
+[submodule "11Grade/apush"]
+	path = 11Grade/apush
+	url = git@github.com:krishnans2006/class-apush
