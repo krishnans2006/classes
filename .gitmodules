@@ -61,3 +61,6 @@
 [submodule "11Grade/apush"]
 	path = 11Grade/apush
 	url = git@github.com:krishnans2006/class-apush
+[submodule "24Fall/ECE120"]
+	path = 24Fall/ECE120
+	url = git@github.com:krishnans2006/class-ECE120
