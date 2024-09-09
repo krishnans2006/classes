@@ -67,3 +67,6 @@
 [submodule "24Fall/MATH213"]
 	path = 24Fall/MATH213
 	url = git@github.com:krishnans2006/class-MATH213
+[submodule "24Fall/ECE110"]
+	path = 24Fall/ECE110
+	url = git@github.com:krishnans2006/class-ECE110
