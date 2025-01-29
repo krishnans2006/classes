@@ -79,3 +79,6 @@
 [submodule "25Spring/ECE314"]
 	path = 25Spring/ECE314
 	url = git@github.com:krishnans2006/class-ECE314
+[submodule "25Spring/ECE210"]
+	path = 25Spring/ECE210
+	url = git@github.com:krishnans2006/class-ECE210
