@@ -41,10 +41,10 @@
 	path = 10Grade/tj-math5
 	url = git@github.com:krishnans2006/class-tj-math5
 [submodule "college-apps"]
-	path = college-apps
+	path = 23College/college-apps
 	url = git@github.com:krishnans2006/college-apps
 [submodule "college-apps-doc"]
-	path = college-apps-doc
+	path = 23College/college-apps-doc
 	url = git@github.com:krishnans2006/college-apps-doc
 [submodule "10Grade/ap-chem"]
 	path = 10Grade/ap-chem
