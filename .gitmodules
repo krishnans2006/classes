@@ -62,35 +62,35 @@
 	path = 11Grade/apush
 	url = git@github.com:krishnans2006/class-apush
 [submodule "24Fall/ECE120"]
-	path = 24Fall/ECE120
+	path = 24_25Fall/ECE120
 	url = git@github.com:krishnans2006/class-ECE120
 [submodule "24Fall/MATH213"]
-	path = 24Fall/MATH213
+	path = 24_25Fall/MATH213
 	url = git@github.com:krishnans2006/class-MATH213
 [submodule "24Fall/ECE110"]
-	path = 24Fall/ECE110
+	path = 24_25Fall/ECE110
 	url = git@github.com:krishnans2006/class-ECE110
 [submodule "24Fall/ANTH106"]
-	path = 24Fall/ANTH106
+	path = 24_25Fall/ANTH106
 	url = git@github.com:krishnans2006/class-ANTH106
 [submodule "24Fall/MATH285"]
-	path = 24Fall/MATH285
+	path = 24_25Fall/MATH285
 	url = git@github.com:krishnans2006/class-MATH285
 [submodule "25Spring/ECE314"]
-	path = 25Spring/ECE314
+	path = 24_25Spring/ECE314
 	url = git@github.com:krishnans2006/class-ECE314
 [submodule "25Spring/ECE210"]
-	path = 25Spring/ECE210
+	path = 24_25Spring/ECE210
 	url = git@github.com:krishnans2006/class-ECE210
 [submodule "25Spring/ECE220"]
-	path = 25Spring/ECE220
+	path = 24_25Spring/ECE220
 	url = git@github.com:krishnans2006/class-ECE220
 [submodule "25Spring/ECE313"]
-	path = 25Spring/ECE313
+	path = 24_25Spring/ECE313
 	url = git@github.com:krishnans2006/class-ECE313
 [submodule "25Spring/PHYS213_214"]
-	path = 25Spring/PHYS213_214
+	path = 24_25Spring/PHYS213_214
 	url = git@github.com:krishnans2006/class-PHYS213_214
 [submodule "25Fall/CS225"]
-	path = 25Fall/CS225
+	path = 25_26Fall/CS225
 	url = git@github.com:krishnans2006/class-CS225
