@@ -91,3 +91,6 @@
 [submodule "25Spring/PHYS213_214"]
 	path = 25Spring/PHYS213_214
 	url = git@github.com:krishnans2006/class-PHYS213_214
+[submodule "25Fall/CS225"]
+	path = 25Fall/CS225
+	url = git@github.com:krishnans2006/class-CS225
