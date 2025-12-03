@@ -105,4 +105,4 @@
 	url = git@github.com:krishnans2006/class-PHYS370
 [submodule "25_26Fall/ECE385-project"]
 	path = 25_26Fall/ECE385-project
-	url = git@github.com:krishnans2006/fpga-flight-sim.git
+	url = git@github.com:krishnans2006/fpga-flight-sim
