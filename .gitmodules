@@ -106,3 +106,6 @@
 [submodule "25_26Fall/ECE385-project"]
 	path = 25_26Fall/ECE385-project
 	url = git@github.com:krishnans2006/fpga-flight-sim
+[submodule "25_26Fall/ENG298CYB"]
+	path = 25_26Fall/ENG298CYB
+	url = git@github.com:krishnans2006/class-ENG298CYB
