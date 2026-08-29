@@ -124,3 +124,6 @@
 [submodule "26_27Fall/CWL241"]
 	path = 26_27Fall/CWL241
 	url = git@github.com:krishnans2006/class-CWL241
+[submodule "26_27Fall/ECE374"]
+	path = 26_27Fall/ECE374
+	url = git@github.com:krishnans2006/class-ECE374
